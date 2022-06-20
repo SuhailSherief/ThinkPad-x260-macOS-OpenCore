@@ -14,16 +14,16 @@ Bootloader Ver. | v0.8.1
 <p align="center">
   <kbd><br>M O N T E R E Y
   <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.41.59.png"/></kbd></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/main/screenshot/Screen%20Shot%202022-06-21%20at%2012.21.58%20AM.png"/></kbd></kbd>
 <p align="center">
   <kbd><br>B A T T E R Y
   <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.59.36.png"/></kbd></kbd>
+  <kbd><img src="https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/blob/main/screenshot/Screen%20Shot%202022-06-21%20at%2012.31.06%20AM.png"/></kbd></kbd>
 </p>
 <p align="center">
-  <kbd><br>S O U N D
+  <kbd><br>P E R F O R M A N C E
   <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.55.56.png"/></kbd></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/main/screenshot/Screen%20Shot%202022-06-21%20at%2012.34.49%20AM.png"/></kbd></kbd>
 </p>
 
 ### GetMacOS
