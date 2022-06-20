@@ -1,5 +1,5 @@
 <!-- Name Card -->
-![X250 Hackintosh](https://cardivo.vercel.app/api?name=X250%20Hackintosh&description=running%20MacOS%20on%20Thinkpad%20X250%F0%9F%91%8B&image=https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/pp.png&backgroundColor=%22272E&pattern=hideout&colorPattern=%231abc9c&opacity=0.05&fontColor=%23eff4f6)
+![x260 Hackintosh](https://cardivo.vercel.app/api?name=x260%hackintosh&description=ThinkPad%x260%running%macOS&image=https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/blob/main/screenshot/pfp.jpeg&backgroundColor=%22272E&pattern=hideout&colorPattern=%231abc9c&opacity=0.05&fontColor=%23eff4f6)
 ## Specification
 Specification | Configuration
 ----------- | -----------
