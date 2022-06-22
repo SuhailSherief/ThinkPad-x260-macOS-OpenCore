@@ -28,7 +28,7 @@ Bootloader Ver. | v0.8.1
 
 ### Before you start
 Follow dortania guide on how to create a recovery usb for MacOS installation.
-You can find the MacOS installation guide at the following link, [`Download Here`](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
+You can find the MacOS installation guide at the following link, [`click here`](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
 
 ## MacOS
 - Monterey (Tested, OpenCore)
