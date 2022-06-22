@@ -21,19 +21,21 @@ Bootloader Ver. | v0.8.1
   <kbd><img src="https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/blob/main/screenshot/Screen%20Shot%202022-06-21%20at%2012.31.06%20AM.png"/></kbd></kbd>
 </p>
 <p align="center">
-  <kbd><br>P E R F O R M A N C E
+  <kbd><br>S T A T S
   <br><br>
   <kbd><img src="https://raw.githubusercontent.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/main/screenshot/Screen%20Shot%202022-06-21%20at%2012.34.49%20AM.png"/></kbd></kbd>
 </p>
 
-### GetMacOS
+### Before you start
+Follow dortania guide on how to create a recovery usb for MacOS installation.
 You can download the MacOS installation at the following link, [`Download Here`](https://sharing.zamprjkt.workers.dev/0:/OS/MacOS/)
 
 ## MacOS
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
-> AirpoAirportitwlm needs to be replaced according to the OS version used, the latest airportitwlm default is Monterey.
-> To download Airportitwlm [`click here`](https://github.com/OpenIntelWireless/itlwm/releases)
+> Airportitwlm needs to be replaced according to the OS version used, the latest airportitwlm default is Monterey.
+> The kext file already has airportitwlm for Monterey and Bigsur. Use propertree and enable it in config.plist.
+> To download latest Airportitwlm patch [`click here`](https://github.com/OpenIntelWireless/itlwm/releases)
 
 # Bios
 - `Security -> Security Chip`: **Disabled**;
