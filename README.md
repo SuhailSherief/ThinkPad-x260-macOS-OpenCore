@@ -28,13 +28,13 @@ Bootloader Ver. | v0.8.1
 
 ### Before you start
 Follow dortania guide on how to create a recovery usb for MacOS installation.
-You can download the MacOS installation at the following link, [`Download Here`](https://sharing.zamprjkt.workers.dev/0:/OS/MacOS/)
+You can find the MacOS installation guide at the following link, [`Download Here`](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
 
 ## MacOS
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
 > Airportitwlm needs to be replaced according to the OS version used, the latest airportitwlm default is Monterey.
-> The kext file already has airportitwlm for Monterey and Bigsur. Use propertree and enable it in config.plist.
+> The kext file already has airportitwlm for Monterey and Bigsur. Use propertree and enable it in config.plist accordingly.
 > To download latest Airportitwlm patch [`click here`](https://github.com/OpenIntelWireless/itlwm/releases)
 
 # Bios
