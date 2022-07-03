@@ -56,7 +56,7 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - Audio Speaker & Earphone `BigSur` `Monterey`
 - Bluetooth `BigSur` `Monterey`
 - Trackpad, Trackball, Gestures `BigSur` `Monterey`
-- Battery Indicator `BigSur` `Mo`
+- Battery Indicator `BigSur` `Monterey`
 - Camera `BigSur` `Monterey`
 - etc
 
