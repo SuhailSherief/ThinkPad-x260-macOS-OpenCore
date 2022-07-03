@@ -50,43 +50,22 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - `CSM Support`: **No**.
 
 ## What's Working?
-- QE/CI Intel HD Graphics 5500 `BigSur` `Monterey`
+- QE/CI Intel HD Graphics 520 `BigSur` `Monterey`
 - Power Management `BigSur` `Monterey`
 - Sleep, Shutdown, Restart `BigSur` `Monterey` `[sleep not tested]`
 - Audio Speaker & Earphone `BigSur` `Monterey`
 - Bluetooth `BigSur` `Monterey`
 - Trackpad, Trackball, Gestures `BigSur` `Monterey`
-- Indikator baterai `BigSur` `Monterey`
+- Battery Indicator `BigSur` `Mo`
 - Camera `BigSur` `Monterey`
 - etc
 
-# Tips 
-
-Help Fix Screen Sleep
-
-```bash
-sudo pmset autopoweroff 0
-sudo pmset powernap 0
-sudo pmset standby 0
-sudo pmset proximitywake 0
-sudo pmset tcpkeepalive 0
-```
-
-This will do 5 things for us:
-
-- `Disables` **autopoweroff**: This is a form of hibernation
-- `Disables` **powernap**: Used to periodically wake the machine for network, and updates(but not the display)
-- `Disables` **standby**: Used as a time period between sleep and going into hibernation
-- `Disables` wake from iPhone/Watch: Specifically when your iPhone or Apple Watch come near, the machine will wake
-- `Disables` **TCP Keep Alive** mechanism to prevent wake ups every 2 hours
-
 ## Credits:
-- [Ikhsaan](https://github.com/exxncss) my cool teacher
-- [Friction • RK800](https://t.me/gerobaksariroti) help fix some bugs
-- [Irawan](https://t.me/irawansalt)
-- [Racka](https://github.com/racka98)
-- [Vcyzteen](https://github.com/vcyzteen) wallpaper on Post
-- [Hackintosh Lover](https://t.me/HackintoshLover)
+- [simprecicchiani](https://github.com/simprecicchiani)
+- [WinLinMacTutorials](https://www.youtube.com/channel/UCR51utxUtFk8OJQP_bBBJsw)
+- [Vcyzteen](https://github.com/vcyzteen)
+- [r/hackintosh](https://www.reddit.com/r/hackintosh/)
+- [r/unixporn](https://github.com/racka98)
 
 ## Download
 click the button below to download EFI
