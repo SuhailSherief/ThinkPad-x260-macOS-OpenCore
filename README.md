@@ -34,7 +34,7 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
 
-> Airportitwlm needs to be replaced according to the OS version used, the latest airportitwlm default is Monterey.
+> Airportitwlm needs to be replaced according to the OS version used, the latest airportitwlm by default is for Monterey.
 > The kext file already has airportitwlm for Monterey and Bigsur. Use propertree and enable it in config.plist accordingly.
 > To download latest Airportitwlm patch [`click here`](https://github.com/OpenIntelWireless/itlwm/releases)
 
