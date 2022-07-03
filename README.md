@@ -52,7 +52,7 @@ You can find the MacOS installation guide at the following link, [`click here`](
 ## What's Working?
 - QE/CI Intel HD Graphics 520 `BigSur` `Monterey`
 - Power Management `BigSur` `Monterey`
-- Sleep, Shutdown, Restart `BigSur` `Monterey` `[sleep not tested]`
+- Sleep, Shutdown, Restart `BigSur` `Monterey`
 - Audio Speaker & Earphone `BigSur` `Monterey`
 - Bluetooth `BigSur` `Monterey`
 - Trackpad, Trackball, Gestures `BigSur` `Monterey`
