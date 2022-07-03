@@ -61,7 +61,8 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - etc
 
 ## Credits:
-- [simprecicchiani](https://github.com/simprecicchiani)
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
+- [Simprecicchiani](https://github.com/simprecicchiani)
 - [WinLinMacTutorials](https://www.youtube.com/channel/UCR51utxUtFk8OJQP_bBBJsw)
 - [Vcyzteen](https://github.com/vcyzteen)
 - [r/hackintosh](https://www.reddit.com/r/hackintosh/)
