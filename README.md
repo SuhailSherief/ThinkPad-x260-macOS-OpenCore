@@ -67,9 +67,3 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - [Vcyzteen](https://github.com/vcyzteen)
 - [r/hackintosh](https://www.reddit.com/r/hackintosh/)
 - [r/unixporn](https://github.com/racka98)
-
-## Download
-click the button below to download EFI
-<p align="left">
-<a href="https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/releases" target="blank"><img align="left" src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/down.png" /></a>
-</p>
