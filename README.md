@@ -9,7 +9,7 @@ Memory | SK-Hynix 8GB DDR4
 Storage | 512GB WD Blue HDD Sata
 Wireless Card | Intel AC-8260 Dual Band + Bluetooth
 Bootloader | OpenCore
-Bootloader Ver. | v0.8.1
+Bootloader Ver. | v0.8.6
 ## Screenshot
 <p align="center">
   <kbd><br>M O N T E R E Y
