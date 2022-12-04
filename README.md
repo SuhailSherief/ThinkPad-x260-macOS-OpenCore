@@ -55,10 +55,11 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - Power Management `BigSur` `Monterey`
 - Sleep, Shutdown, Restart `BigSur` `Monterey`
 - Audio Speaker & Earphone `BigSur` `Monterey`
-- Bluetooth `BigSur` `Monterey`
+- Bluetooth `BigSur` [`Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/3)
 - Trackpad, Trackball, Gestures `BigSur` `Monterey`
 - Battery Indicator `BigSur` `Monterey`
 - Camera `BigSur` `Monterey`
+- Dock station [`BigSur` `Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/2)
 - etc
 
 ## Credits:
