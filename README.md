@@ -31,7 +31,7 @@ Follow dortania guide on how to create a recovery usb for MacOS installation.
 You can find the MacOS installation guide at the following link, [`click here`](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
 
 ## MacOS
-- Ventura (Upcoming update)
+- Ventura (Waiting for itlwm V2.2)
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
 
