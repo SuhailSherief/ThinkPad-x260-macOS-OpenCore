@@ -14,16 +14,16 @@ Bootloader Ver. | v0.8.6
 <p align="center">
   <kbd><br>M O N T E R E Y
   <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/main/screenshot/main.png"/></kbd></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/ventura/screenshot/main.png"/></kbd></kbd>
 <p align="center">
   <kbd><br>B A T T E R Y
   <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/main/screenshot/m1.png"/></kbd></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/ventura/screenshot/m1.png"/></kbd></kbd>
 </p>
 <p align="center">
   <kbd><br>S T A T S
   <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/main/screenshot/m2.png"/></kbd></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/ventura/screenshot/m2.png"/></kbd></kbd>
 </p>
 
 ### Before you start
