@@ -31,7 +31,7 @@ Follow dortania guide on how to create a recovery usb for MacOS installation.
 You can find the MacOS installation guide at the following link, [`click here`](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
 
 ## MacOS
-- Ventura (Waiting for itlwm V2.2)
+- Ventura (Tested, OpenCore)
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
 
@@ -52,15 +52,15 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - `CSM Support`: **No**.
 
 ## What's Working?
-- QE/CI Intel HD Graphics 520 `BigSur` `Monterey`
-- Power Management `BigSur` `Monterey`
-- Sleep, Shutdown, Restart `BigSur` `Monterey`
-- Audio Speaker & Earphone `BigSur` `Monterey`
-- Bluetooth `BigSur` [`Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/3)
-- Trackpad, Trackball, Gestures `BigSur` `Monterey`
-- Battery Indicator `BigSur` `Monterey`
-- Camera `BigSur` `Monterey`
-- Dock station [`BigSur` `Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/2)
+- QE/CI Intel HD Graphics 520 `BigSur` `Monterey` `Ventura`
+- Power Management `BigSur` `Monterey` `Ventura`
+- Sleep, Shutdown, Restart `BigSur` `Monterey` `Ventura`
+- Audio Speaker & Earphone `BigSur` `Monterey` `Ventura`
+- Bluetooth `BigSur` [`Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/3) `Ventura`
+- Trackpad, Trackball, Gestures `BigSur` `Monterey` `Ventura`
+- Battery Indicator `BigSur` `Monterey` `Ventura`
+- Camera `BigSur` `Monterey` `Ventura`
+- Dock station [`BigSur` `Monterey`](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore/issues/2) `Ventura`
 - etc
 
 ## Credits:
