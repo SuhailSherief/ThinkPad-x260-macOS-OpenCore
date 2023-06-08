@@ -35,10 +35,9 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
 
-> Airportitwlm needs to be replaced according to the OS version used, the latest airportitwlm by default is for Monterey.
-> The current EFI supports Ventura out of box but wifi is slow. Other features are intact.
-> The kext file already has airportitwlm for Monterey and Bigsur. Use propertree and enable it in config.plist accordingly.
-> To download latest Airportitwlm patch [`click here`](https://github.com/OpenIntelWireless/itlwm/releases)
+> Airportitwlm is preconfigured based on the branch you download.
+> If you face any issues try different versions. Kexts for BigSur, Monterey and Ventura already available.
+> Just Enable and Disable accordingly in config.plist.
 
 # Bios
 - `Security -> Security Chip`: **Disabled**;
