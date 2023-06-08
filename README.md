@@ -35,7 +35,7 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - Monterey (Tested, OpenCore)
 - Bigsur (Tested, OpenCore)
 
-> Airportitwlm is preconfigured based on the branch you download.
+> Airportitwlm is preconfigured based on the branch you use.
 > If you face any issues try different versions. Kexts for BigSur, Monterey and Ventura already available.
 > Just Enable and Disable accordingly in config.plist.
 
